@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/network-test-task/static/css/main.44c13e1c.css",
+    "main.js": "/network-test-task/static/js/main.c10b274e.js",
+    "static/media/map.png": "/network-test-task/static/media/map.7d22c83530e84dd559e7.png",
+    "static/media/server_ByteCloud.png": "/network-test-task/static/media/server_ByteCloud.c50b8fbb49cf14c7235d.png",
+    "static/media/server.png": "/network-test-task/static/media/server.3abd77d58fb835207e93.png",
+    "static/media/large.png": "/network-test-task/static/media/large.72be1c9f56c827acaf9c.png",
+    "static/media/circle_empty.png": "/network-test-task/static/media/circle_empty.8fca6bf31b0c4654b01c.png",
+    "static/media/arc_west-usa_oceania_small.png": "/network-test-task/static/media/arc_west-usa_oceania_small.b638aabc9432b81b8e3c.png",
+    "static/media/arc_west-usa_oceania_large.png": "/network-test-task/static/media/arc_west-usa_oceania_large.0cb18d710113b23ab5f1.png",
+    "static/media/arc_west-usa_asia_large.png": "/network-test-task/static/media/arc_west-usa_asia_large.73d4e4561d1ccb24a085.png",
+    "static/media/arc_east-usa_oceania_small.png": "/network-test-task/static/media/arc_east-usa_oceania_small.a7b9204c05b5c50b2638.png",
+    "static/media/arc_west-usa_oceania_medium.png": "/network-test-task/static/media/arc_west-usa_oceania_medium.d189eeb8e10dfa25b8de.png",
+    "static/media/arc_germany_south-america_medium.png": "/network-test-task/static/media/arc_germany_south-america_medium.f26d8732bce9e074a5bd.png",
+    "static/media/arc_east-usa_oceania_large.png": "/network-test-task/static/media/arc_east-usa_oceania_large.021a2a41d242d89dd140.png",
+    "static/media/arc_west-usa_asia_small.png": "/network-test-task/static/media/arc_west-usa_asia_small.8275950e54ae65f6153b.png",
+    "static/media/arc_east-usa_oceania_medium.png": "/network-test-task/static/media/arc_east-usa_oceania_medium.f41d37ab0d5a3728bb4b.png",
+    "static/media/arc_germany_oceania_small.png": "/network-test-task/static/media/arc_germany_oceania_small.9c461569f4e8c956a5f6.png",
+    "static/media/arc_germany_south-america_large.png": "/network-test-task/static/media/arc_germany_south-america_large.d5010cb2bed35e9cadc5.png",
+    "static/media/arc_germany_south-america_small.png": "/network-test-task/static/media/arc_germany_south-america_small.f70298a729ca101593a0.png",
+    "static/media/arc_singapore_north-america_large.png": "/network-test-task/static/media/arc_singapore_north-america_large.80549e1d9abc4a49090f.png",
+    "static/media/arc_germany_oceania_large.png": "/network-test-task/static/media/arc_germany_oceania_large.6859d5c1ae801bf496db.png",
+    "static/media/arc_germany_oceania_medium.png": "/network-test-task/static/media/arc_germany_oceania_medium.3a5436750f87a1477b37.png",
+    "static/media/man_empty.png": "/network-test-task/static/media/man_empty.a87d0d7460bfff904bd8.png",
+    "static/media/arc_singapore_north-america_medium.png": "/network-test-task/static/media/arc_singapore_north-america_medium.e4213227b62785f4de91.png",
+    "static/media/arc_singapore_north-america_small.png": "/network-test-task/static/media/arc_singapore_north-america_small.1f3cab03a472fcdfab78.png",
+    "static/media/arc_east-usa_asia_large.png": "/network-test-task/static/media/arc_east-usa_asia_large.9b0beb5114d5e78ae31e.png",
+    "static/media/circle_filled.png": "/network-test-task/static/media/circle_filled.0d74a472064a582559c5.png",
+    "static/media/arc_west-usa_asia_medium.png": "/network-test-task/static/media/arc_west-usa_asia_medium.25ab48d978596a6b8a40.png",
+    "static/media/arc_west-usa_europe_large.png": "/network-test-task/static/media/arc_west-usa_europe_large.d77010469b8f19242585.png",
+    "static/media/arc_germany_north-america_large.png": "/network-test-task/static/media/arc_germany_north-america_large.28febad642ceef93197d.png",
+    "static/media/arc_east-usa_asia_small.png": "/network-test-task/static/media/arc_east-usa_asia_small.838f0ebb90dddd5842df.png",
+    "index.html": "/network-test-task/index.html",
+    "main.44c13e1c.css.map": "/network-test-task/static/css/main.44c13e1c.css.map",
+    "main.c10b274e.js.map": "/network-test-task/static/js/main.c10b274e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44c13e1c.css",
+    "static/js/main.c10b274e.js"
+  ]
+}
