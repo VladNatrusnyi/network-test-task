@@ -1,0 +1,11 @@
+.circle {
+    width: 30px;
+}
+
+.circle:hover {
+    cursor: pointer;
+}
+
+.serverImg {
+    width: 35px;
+}
